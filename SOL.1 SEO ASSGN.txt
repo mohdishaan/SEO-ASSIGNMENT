@@ -1,0 +1,7 @@
+Ques1: What is SEO and explain the importance of SEO?
+
+Sol: 
+SEO stands for Search Engine Optimization. It's a set of strategies and practices aimed at optimizing a website or online content to improve its visibility and ranking on search engine results pages (SERPs). The goal of SEO is to increase organic (non-paid) traffic to a website by ensuring that it appears prominently in relevant search queries.
+Importance :---
+
+The importance of SEO lies in its ability to drive targeted traffic to a website. Meta tags are important for SEO because they provide information to search engines about the content on the site.

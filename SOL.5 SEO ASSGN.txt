@@ -1,0 +1,21 @@
+Ques5: Define fevicon and give an illustrative example.
+
+Sol:
+
+A Fevicon is a tiny icon included along with a website, which is displayed in places like browser's address bar, page tabs and bookmarks menu.
+These are used to improve user experience and enforce brand consistency. When a familiar icon is seen in the browser's address bar, so it helps users know that they're in the right place.
+
+eg:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fevicon</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <h1>WELCOME TO MY ASSIGNMENT</h1>
+</body>
+</html>
